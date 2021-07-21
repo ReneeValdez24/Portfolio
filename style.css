@@ -1,7 +1,13 @@
- .logo {
-     padding:3px;
+body {
+    background-color:hsl(220, 29%, 28%)
+ }
+ 
+.logo {
+    padding:3px;
     margin:1px;
 }
+
+
 
 
 
