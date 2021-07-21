@@ -1,5 +1,5 @@
 body {
-    background-color:hsl(220, 29%, 28%)
+    background-color:hsl(254, 32%,8%);
  }
  
 .logo {
@@ -8,9 +8,18 @@ body {
 }
 
 
+h1 {
+ font-size: 70px;
+ color:hsl(79, 55%, 92%);
+ padding: 0px;
+ 
 
+}
 
-
+.tab {
+    margin-left: 40px;
+    padding: 0px;
+}
 
 
 
