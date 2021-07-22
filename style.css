@@ -21,7 +21,16 @@ h1 {
 .tab {
     color:hsl(63, 13%, 68%);
     font-size: 30px;
-    float:right;
+    font-family: monospace;
+    position: absolute;
+    top: 100px;
+    right: 310px;
+}
+
+.social-media {
+    position: absolute;
+    top: 90px;
+    right: 260px;
 }
 
 
