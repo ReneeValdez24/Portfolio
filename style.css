@@ -1,25 +1,30 @@
 body {
     background-color:hsl(254, 32%,8%);
- }
- 
+}
+
 .logo {
     padding:3px;
     margin:1px;
 }
 
-
 h1 {
- font-size: 70px;
- color:hsl(79, 55%, 92%);
- padding: 0px;
- 
+    font-size: 70px;
+    color:hsl(79, 55%, 92%);
+    margin-left: 20px;
+    font-family: 'Segoe UI';
+}
 
+.indent {
+    margin-left: 80px;
 }
 
 .tab {
-    margin-left: 40px;
-    padding: 0px;
+    color:hsl(63, 13%, 68%);
+    font-size: 30px;
+    float:right;
 }
+
+
 
 
 
