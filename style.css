@@ -26,9 +26,10 @@ h1 {
     top: 100px;
     right: 310px;
 }
-a:link {
-   text-decoration: underline;
+a {
+   text-decoration: none;
    font-family: monospace;
+   color:hsl(63, 13%, 68%);
 
 }
 
