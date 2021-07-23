@@ -51,12 +51,17 @@ a {
 .about-writing {
     color:hsl(79, 55%, 92%);
     font-family: 'Segoe UI';
+    float:left;
+    padding: 20px;
+    margin: 5px;
 }
 
 .about-pfp {
     position: absolute;
     top: 200px;
     right: 20px;
+    padding: 20px;
+    margin: 5px;
 }
 
 
