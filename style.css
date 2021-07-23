@@ -18,7 +18,7 @@ h1 {
     margin-left: 80px;
 }
 
-.tab {
+.navigation {
     color:hsl(63, 13%, 68%);
     font-size: 30px;
     font-family: monospace;
@@ -26,10 +26,10 @@ h1 {
     top: 100px;
     right: 310px;
 }
-
 a:link {
-    text-decoration: none;
-    color:hsl(63, 13%, 68%);
+   text-decoration: underline;
+   font-family: monospace;
+
 }
 
 .instagram {
