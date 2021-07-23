@@ -39,6 +39,15 @@ a {
     right: 260px;
 }
 
+.number {
+    color:hsl(63, 13%, 68%);
+    font-size: 30px;
+    font-family: monospace;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+}
+
 
 
 
