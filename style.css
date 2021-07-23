@@ -53,6 +53,12 @@ a {
     font-family: 'Segoe UI';
 }
 
+.about-pfp {
+    position: absolute;
+    top: 280px;
+    right: 260px;
+}
+
 
 
 
